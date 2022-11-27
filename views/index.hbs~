@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+	
+	<head>
+    <link rel="shortcut icon" type="image/png" href="/logo.png"/> 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137434529-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137434529-1');
+
+ {{#if did_poll}}
+
+alert("Thanks ! Please don't vote again :-) ");
+
+  {{/if}}
+</script>
+
+
+		<link rel="stylesheet" type="text/css" href="css/main.css"/>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+				<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.css"/>
+
+		<title>CuFace - Anonymous Public Feedbacks</title>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+	</head>
+
+<body style="padding:40px">
+	<a style="text-decoration:none" href="/">
+ <h1><span class="blue">
+<image class="img" align="center"  src="logo.png" /></h1>
+<h2>Get to know what peers have to say about eachother with Anonymous public feedback</a></h2>
+</a>
+  
+
+
+
+
+<hr align="center" width="100%">
+
+ {{#if latest}}
+
+		
+ <h1>{{latest}}</h1> 
+
+  {{/if}}
+
+<h2 style="color:#fff"><a href="/feedback">Drop Suggestions for games/Feedbacks/Reports<span style="color:darkorange"> here</span></a></h2>
+ {{#if poll0}}
+   
+		
+ <h2 class="h31">{{poll_text}}</h2> 
+
+<form action="/poll_plus" method="GET">
+
+<input name="name" value="{{poll0.name}}" hidden/>
+
+<button type="submit"  class="button1"> {{poll0.value_str}} ({{ poll0.value_num}} Votes ) </button>
+
+</form>
+<h3 class="h31">vs</h1> 
+<form action="/poll_plus" method="GET">
+
+<input name="name" value="{{poll1.name}}" hidden/>
+
+<button type="submit"  class="button1"> {{poll1.value_str}} ({{ poll1.value_num}} Votes ) </button>
+
+</form>
+
+ 
+
+  {{/if}}
+
+<hr align="center" width="100%">
+ <h1>Find Folks</h1>
+
+
+<!-- 
+<form action="" method="GET" >
+<input type="text" id="name" name="query"  placeholder="Search batchmates by name,surname,full name ..." title="Name of User">
+ 
+<button type="submit" id="submit"  class="button1">Search</button>
+</form> 
+
+<table id="myTable">
+  
+  
+
+		  {{#each users}} 
+
+								
+					<tr>
+						 <td style="width:20%;"><a href="user?id={{id}}"><span>{{group}}</span></a></td>
+						<td style="width:70%;"><a href="user?id={{id}}"><span>{{name}}</span></a></td>
+						<td style="width:10%;height:auto;"> <a href="user?id={{id}}"><span><image src="https://www.freeiconspng.com/uploads/white-arrow-transparent-png-22.png" style="width:1em;heigth:1em;"></image></span></a></td>
+					</tr> 
+											
+
+
+					
+		{{/each}}
+
+
+
+		
+</table>
+ 
+<br>
+
+<form action="" method="GET">
+
+<input name="page" value="{{page}}" hidden/>
+
+<button type="submit"  class="button3">Next Page</button>
+
+</form>
+
+
+<br>
+ <p style="padding:10px;" align="center" id="resp"> Latest Comments</p>
+
+
+<table id="myTable">
+  
+
+
+						 <tr>
+    <th style="width:20%;">Date</th>
+    <th style="width:20%;">On user</th> 
+    <th style="width:50%;">Comment</th>
+    <th style="width:10%;"></th>
+  </tr>
+	
+  
+
+		  {{#each comments}} 
+
+
+								
+					<tr>
+            
+            <td style="width:20%;">{{datetime}}</td>
+            <td style="width:20%;">{{name}}</td>
+						<td id="{{id}}" style="width:50%;">{{message}}</td>
+ 
+					 <td style="width:10%;height:auto;"> 	<a href="/user?id={{userid}}"><button  style="background-color:orangered;"  class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored"> VIEW </button>	</a>
+					</td>   
+  
+  
+					</tr> 
+											
+
+
+					
+		{{/each}}
+
+-->
+
+ <p style="padding:10px;" align="center" id="resp">Thanks for Using Cuface . Hope you like the idea !</p>
+
+
+
+
+		
+</table>
+
+
+
+<br>
+<br>
+
+<!--  <p style="padding:10px;" align="center" id="resp"> {{message}}</p> -->
+</body>
+</html>
+
+
+
+
+	</body>
+ 
+
+
+<a href="/addUser"> 
+<p style="padding:10px;" align="center" id="resp"> Register New User</p> 
+</a> 
+
+</html>

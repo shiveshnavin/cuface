@@ -1,0 +1,24 @@
+{
+  "name": "uface",
+  "version": "1.0.0",
+  "description": "Public anonymous feedback",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "facesmash",
+    "smashyou",
+    "uface"
+  ],
+  "author": "Shivesh Navin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mongoose": "^5.4.20",
+    "path": "^0.12.7",
+    "universal-analytics": "^0.4.20"
+  }
+}

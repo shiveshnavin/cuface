@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5ca3409015667e16f7bd44b6"},"id":"1554202768009","name":"poll0","value_str":"Yes,Continue Operations","value_num":21,"createdAt":{"$date":"2019-04-02T10:59:28.010Z"},"updatedAt":{"$date":"2019-12-20T09:56:54.595Z"},"__v":0}
+{"_id":{"$oid":"5ca342db2701ae1961b94322"},"id":"1554203355226","name":"poll1","value_str":"Had full","value_num":9,"createdAt":{"$date":"2019-04-02T11:09:15.234Z"},"updatedAt":{"$date":"2020-03-12T11:35:49.923Z"},"__v":0}
+{"_id":{"$oid":"5ca346a939a5861e25719ac4"},"id":"1554204329101","name":"poll3","value_str":"Had a blast using Cuface ?","value_num":0,"createdAt":{"$date":"2019-04-02T11:25:29.108Z"},"updatedAt":{"$date":"2019-04-02T11:25:29.108Z"},"__v":0}
+{"_id":{"$oid":"5ca350b3d747252dfe61269c"},"id":"1554206899973","name":"latest","value_str":"Latest Trending Game of ECE-EVE","value_num":0,"createdAt":{"$date":"2019-04-02T12:08:19.980Z"},"updatedAt":{"$date":"2019-04-02T12:08:19.980Z"},"__v":0}

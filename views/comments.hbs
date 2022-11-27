@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+	
+	<head>
+    <link rel="shortcut icon" type="image/png" href="/logo.png"/> 
+		<link rel="stylesheet" type="text/css" href="css/main.css"/>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+				<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.css"/>
+
+		<title>CuFace - Anonymous Public Feedbacks</title>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+
+
+	</head>
+
+<body style="padding:40px">
+	<a style="text-decoration:none" href="/">
+ <h1><span class="blue">
+<image class="img" align="center"   src="logo.png" /></h1>
+<h2>Get to know what peers have to say about eachother with Anonymous public feedback</a></h2>
+
+</a>
+  
+
+ <h1>Comments</h1>
+  
+<hr align="center" width="100%">
+	
+  
+<table id="myTable">
+  
+
+ {{#if key}}
+  
+
+		  {{#each comments}} 
+
+								
+					<tr>
+            
+            <td style="width:20%;">{{datetime}}</td>
+            <td style="width:20%;">{{name}}</td>
+						<td id="{{id}}" style="width:60%;">{{message}}</td>
+ 
+					 <td style="width:20%;height:auto;"> 	<a href="/deleteComment?id={{id}}&key={{key}}"><button  style="background-color:orangered;"  class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored"> Delete </button>	</a>
+					</td>   
+  
+  
+					</tr> 
+											
+
+
+					
+		{{/each}}
+		
+  {{/if}}
+
+		
+</table>
+
+
+
+ <p style="padding:10px;" align="center" id="resp"> {{message}}</p>
+
+
+	</body>
+ 
+
+
+
+</html>

@@ -1,0 +1,84 @@
+{"_id":{"$oid":"5ca11a1f3f1bc200045ec9a3"},"name":"Aakash Deep","group":"ECE-EVE","id":"13","createdAt":{"$date":"2019-03-31T19:50:55.229Z"},"updatedAt":{"$date":"2019-03-31T19:50:55.229Z"},"__v":0}
+{"_id":{"$oid":"5ca11a323f1bc200045ec9a4"},"name":"Aditi Pal","group":"ECE-EVE","id":"14","createdAt":{"$date":"2019-03-31T19:51:14.111Z"},"updatedAt":{"$date":"2019-03-31T19:51:14.111Z"},"__v":0}
+{"_id":{"$oid":"5ca11a3b3f1bc200045ec9a5"},"name":"Alpana Shekhar","group":"ECE-EVE","id":"15","createdAt":{"$date":"2019-03-31T19:51:23.370Z"},"updatedAt":{"$date":"2019-03-31T19:51:23.370Z"},"__v":0}
+{"_id":{"$oid":"5ca11a483f1bc200045ec9a6"},"name":"Aman Gupta","group":"ECE-EVE","id":"16","createdAt":{"$date":"2019-03-31T19:51:36.352Z"},"updatedAt":{"$date":"2019-03-31T19:51:36.352Z"},"__v":0}
+{"_id":{"$oid":"5ca11a573a637b0004a08807"},"name":"Chakshu Kalra","group":"ECE-EVE","id":"17","createdAt":{"$date":"2019-03-31T19:51:51.076Z"},"updatedAt":{"$date":"2019-03-31T19:51:51.076Z"},"__v":0}
+{"_id":{"$oid":"5ca11a6a3a637b0004a08808"},"name":"Chongtham Kashnata Singh","group":"ECE-EVE","id":"18","createdAt":{"$date":"2019-03-31T19:52:10.123Z"},"updatedAt":{"$date":"2019-03-31T19:52:10.123Z"},"__v":0}
+{"_id":{"$oid":"5ca11a833a637b0004a0880a"},"name":"Gaurav","group":"ECE-EVE","id":"20","createdAt":{"$date":"2019-03-31T19:52:35.494Z"},"updatedAt":{"$date":"2019-03-31T19:52:35.494Z"},"__v":0}
+{"_id":{"$oid":"5ca11af03a637b0004a0880b"},"name":"Harikrishnan Jayarajan","group":"ECE-EVE","id":"21","createdAt":{"$date":"2019-03-31T19:54:24.625Z"},"updatedAt":{"$date":"2019-03-31T19:54:24.625Z"},"__v":0}
+{"_id":{"$oid":"5ca11af93a637b0004a0880c"},"name":"Harish Singh Bora","group":"ECE-EVE","id":"22","createdAt":{"$date":"2019-03-31T19:54:33.032Z"},"updatedAt":{"$date":"2019-03-31T19:54:33.032Z"},"__v":0}
+{"_id":{"$oid":"5ca11b013a637b0004a0880d"},"name":"Himanshu Porwal","group":"ECE-EVE","id":"23","createdAt":{"$date":"2019-03-31T19:54:41.881Z"},"updatedAt":{"$date":"2019-03-31T19:54:41.881Z"},"__v":0}
+{"_id":{"$oid":"5ca11b0e3a637b0004a0880e"},"name":"Karan Verma","group":"ECE-EVE","id":"24","createdAt":{"$date":"2019-03-31T19:54:54.920Z"},"updatedAt":{"$date":"2019-03-31T19:54:54.920Z"},"__v":0}
+{"_id":{"$oid":"5ca11b173a637b0004a0880f"},"name":"Kartik Gupta","group":"ECE-EVE","id":"25","createdAt":{"$date":"2019-03-31T19:55:03.567Z"},"updatedAt":{"$date":"2019-03-31T19:55:03.567Z"},"__v":0}
+{"_id":{"$oid":"5ca11b243a637b0004a08810"},"name":"Kunal Anand","group":"ECE-EVE","id":"26","createdAt":{"$date":"2019-03-31T19:55:16.746Z"},"updatedAt":{"$date":"2019-03-31T19:55:16.746Z"},"__v":0}
+{"_id":{"$oid":"5ca11b2f3a637b0004a08811"},"name":"Mahaveer","group":"ECE-EVE","id":"27","createdAt":{"$date":"2019-03-31T19:55:27.374Z"},"updatedAt":{"$date":"2019-03-31T19:55:27.374Z"},"__v":0}
+{"_id":{"$oid":"5ca11b383a637b0004a08812"},"name":"Manisha Soni","group":"ECE-EVE","id":"28","createdAt":{"$date":"2019-03-31T19:55:36.238Z"},"updatedAt":{"$date":"2019-03-31T19:55:36.238Z"},"__v":0}
+{"_id":{"$oid":"5ca11b413a637b0004a08813"},"name":"Nitika Kumar","group":"ECE-EVE","id":"29","createdAt":{"$date":"2019-03-31T19:55:45.360Z"},"updatedAt":{"$date":"2019-03-31T19:55:45.360Z"},"__v":0}
+{"_id":{"$oid":"5ca11b4a3a637b0004a08814"},"name":"Ojasvi Kumar","group":"ECE-EVE","id":"30","createdAt":{"$date":"2019-03-31T19:55:54.825Z"},"updatedAt":{"$date":"2019-03-31T19:55:54.825Z"},"__v":0}
+{"_id":{"$oid":"5ca11b563a637b0004a08815"},"name":"Pankaj kumar","group":"ECE-EVE","id":"31","createdAt":{"$date":"2019-03-31T19:56:06.984Z"},"updatedAt":{"$date":"2019-03-31T19:56:06.984Z"},"__v":0}
+{"_id":{"$oid":"5ca11b5f3a637b0004a08816"},"name":"Prasant Pal","group":"ECE-EVE","id":"32","createdAt":{"$date":"2019-03-31T19:56:15.882Z"},"updatedAt":{"$date":"2019-03-31T19:56:15.882Z"},"__v":0}
+{"_id":{"$oid":"5ca11b673a637b0004a08817"},"name":"PRIYANK","group":"ECE-EVE","id":"33","createdAt":{"$date":"2019-03-31T19:56:23.662Z"},"updatedAt":{"$date":"2019-03-31T19:56:23.662Z"},"__v":0}
+{"_id":{"$oid":"5ca11b6f3a637b0004a08818"},"name":"Sheshank","group":"ECE-EVE","id":"34","createdAt":{"$date":"2019-03-31T19:56:31.846Z"},"updatedAt":{"$date":"2019-03-31T19:56:31.846Z"},"__v":0}
+{"_id":{"$oid":"5ca11b793a637b0004a08819"},"name":"Shivam Rohilla","group":"ECE-EVE","id":"35","createdAt":{"$date":"2019-03-31T19:56:41.364Z"},"updatedAt":{"$date":"2019-03-31T19:56:41.364Z"},"__v":0}
+{"_id":{"$oid":"5ca11b833a637b0004a0881a"},"name":"Shivesh Navin","group":"ECE-EVE","id":"36","createdAt":{"$date":"2019-03-31T19:56:51.825Z"},"updatedAt":{"$date":"2019-03-31T19:56:51.825Z"},"__v":0}
+{"_id":{"$oid":"5ca11b9b3a637b0004a0881b"},"name":"Shubham Kaushik","group":"ECE-EVE","id":"37","createdAt":{"$date":"2019-03-31T19:57:15.987Z"},"updatedAt":{"$date":"2019-03-31T19:57:15.987Z"},"__v":0}
+{"_id":{"$oid":"5ca11bac3a637b0004a0881c"},"name":"Siddhant Rawat","group":"ECE-EVE","id":"38","createdAt":{"$date":"2019-03-31T19:57:32.461Z"},"updatedAt":{"$date":"2019-03-31T19:57:32.461Z"},"__v":0}
+{"_id":{"$oid":"5ca11bb63a637b0004a0881d"},"name":"Umang Jain","group":"ECE-EVE","id":"39","createdAt":{"$date":"2019-03-31T19:57:42.256Z"},"updatedAt":{"$date":"2019-03-31T19:57:42.256Z"},"__v":0}
+{"_id":{"$oid":"5ca11bcc3a637b0004a0881e"},"name":"Vishal Panwar","group":"ECE-EVE","id":"40","createdAt":{"$date":"2019-03-31T19:58:04.326Z"},"updatedAt":{"$date":"2019-03-31T19:58:04.326Z"},"__v":0}
+{"_id":{"$oid":"5ca11bd73a637b0004a0881f"},"name":"Adil Ahmad","group":"ECE-EVE","id":"41","createdAt":{"$date":"2019-03-31T19:58:15.047Z"},"updatedAt":{"$date":"2019-03-31T19:58:15.047Z"},"__v":0}
+{"_id":{"$oid":"5ca11be23a637b0004a08820"},"name":"Vaibhav Dhama","group":"ECE-EVE","id":"42","createdAt":{"$date":"2019-03-31T19:58:26.260Z"},"updatedAt":{"$date":"2019-03-31T19:58:26.260Z"},"__v":0}
+{"_id":{"$oid":"5ca11bec3a637b0004a08821"},"name":"Sabarni Kundu","group":"ECE-EVE","id":"43","createdAt":{"$date":"2019-03-31T19:58:36.374Z"},"updatedAt":{"$date":"2019-03-31T19:58:36.374Z"},"__v":0}
+{"_id":{"$oid":"5ca11bf53a637b0004a08822"},"name":"Paras Jain","group":"ECE-EVE","id":"44","createdAt":{"$date":"2019-03-31T19:58:45.019Z"},"updatedAt":{"$date":"2019-03-31T19:58:45.019Z"},"__v":0}
+{"_id":{"$oid":"5ca11bfe3a637b0004a08823"},"name":"Arpit Malik","group":"ECE-EVE","id":"45","createdAt":{"$date":"2019-03-31T19:58:54.217Z"},"updatedAt":{"$date":"2019-03-31T19:58:54.217Z"},"__v":0}
+{"_id":{"$oid":"5ca11c073a637b0004a08824"},"name":"Manish Mishra","group":"ECE-EVE","id":"46","createdAt":{"$date":"2019-03-31T19:59:03.722Z"},"updatedAt":{"$date":"2019-03-31T19:59:03.722Z"},"__v":0}
+{"_id":{"$oid":"5ca11c0f3a637b0004a08825"},"name":"Neha Bansal","group":"ECE-EVE","id":"47","createdAt":{"$date":"2019-03-31T19:59:11.463Z"},"updatedAt":{"$date":"2019-03-31T19:59:11.463Z"},"__v":0}
+{"_id":{"$oid":"5ca11c173a637b0004a08826"},"name":"Saurav kumar","group":"ECE-EVE","id":"48","createdAt":{"$date":"2019-03-31T19:59:19.656Z"},"updatedAt":{"$date":"2019-03-31T19:59:19.656Z"},"__v":0}
+{"_id":{"$oid":"5ca11c1f3a637b0004a08827"},"name":"Vipul Kumar Malik","group":"ECE-EVE","id":"49","createdAt":{"$date":"2019-03-31T19:59:27.704Z"},"updatedAt":{"$date":"2019-03-31T19:59:27.704Z"},"__v":0}
+{"_id":{"$oid":"5ca11c2e3a637b0004a08828"},"name":"Manoj Mittal","group":"ECE-EVE","id":"50","createdAt":{"$date":"2019-03-31T19:59:42.134Z"},"updatedAt":{"$date":"2019-03-31T19:59:42.134Z"},"__v":0}
+{"_id":{"$oid":"5ca11c373a637b0004a08829"},"name":"Kumar Lucky","group":"ECE-EVE","id":"51","createdAt":{"$date":"2019-03-31T19:59:51.695Z"},"updatedAt":{"$date":"2019-03-31T19:59:51.695Z"},"__v":0}
+{"_id":{"$oid":"5ca11c403a637b0004a0882a"},"name":"Praveen Samal","group":"ECE-EVE","id":"52","createdAt":{"$date":"2019-03-31T20:00:00.928Z"},"updatedAt":{"$date":"2019-03-31T20:00:00.928Z"},"__v":0}
+{"_id":{"$oid":"5ca11c4a3a637b0004a0882b"},"name":"Abhishek tyagi","group":"ECE-EVE","id":"53","createdAt":{"$date":"2019-03-31T20:00:10.160Z"},"updatedAt":{"$date":"2019-03-31T20:00:10.160Z"},"__v":0}
+{"_id":{"$oid":"5ca11c5a3a637b0004a0882c"},"name":"Aaradhya Shorey","group":"ECE-EVE","id":"54","createdAt":{"$date":"2019-03-31T20:00:26.190Z"},"updatedAt":{"$date":"2019-03-31T20:00:26.190Z"},"__v":0}
+{"_id":{"$oid":"5ca11c623a637b0004a0882d"},"name":"Vishwanath Wadhwa","group":"ECE-EVE","id":"55","createdAt":{"$date":"2019-03-31T20:00:34.572Z"},"updatedAt":{"$date":"2019-03-31T20:00:34.572Z"},"__v":0}
+{"_id":{"$oid":"5ca11c6a3a637b0004a0882e"},"name":"Ayush Duggal","group":"ECE-EVE","id":"56","createdAt":{"$date":"2019-03-31T20:00:42.381Z"},"updatedAt":{"$date":"2019-03-31T20:00:42.381Z"},"__v":0}
+{"_id":{"$oid":"5ca11c723a637b0004a0882f"},"name":"Sanskar Gupta","group":"ECE-EVE","id":"57","createdAt":{"$date":"2019-03-31T20:00:50.573Z"},"updatedAt":{"$date":"2019-03-31T20:00:50.573Z"},"__v":0}
+{"_id":{"$oid":"5ca11c7b3a637b0004a08830"},"name":"Tanisha Bisht","group":"ECE-EVE","id":"58","createdAt":{"$date":"2019-03-31T20:00:59.766Z"},"updatedAt":{"$date":"2019-03-31T20:00:59.766Z"},"__v":0}
+{"_id":{"$oid":"5ca11c833a637b0004a08831"},"name":"Akshay Suri","group":"ECE-EVE","id":"59","createdAt":{"$date":"2019-03-31T20:01:07.075Z"},"updatedAt":{"$date":"2019-03-31T20:01:07.075Z"},"__v":0}
+{"_id":{"$oid":"5ca11c8a3a637b0004a08832"},"name":"Mohit Dahiya","group":"ECE-EVE","id":"60","createdAt":{"$date":"2019-03-31T20:01:14.748Z"},"updatedAt":{"$date":"2019-03-31T20:01:14.748Z"},"__v":0}
+{"_id":{"$oid":"5ca11c9c3a637b0004a08833"},"name":"Rajni Bisht","group":"ECE-EVE","id":"61","createdAt":{"$date":"2019-03-31T20:01:32.253Z"},"updatedAt":{"$date":"2019-03-31T20:01:32.253Z"},"__v":0}
+{"_id":{"$oid":"5ca11cab3a637b0004a08834"},"name":"Rohit Khanduri","group":"ECE-EVE","id":"62","createdAt":{"$date":"2019-03-31T20:01:47.865Z"},"updatedAt":{"$date":"2019-03-31T20:01:47.865Z"},"__v":0}
+{"_id":{"$oid":"5ca11cbd3a637b0004a08835"},"name":"Siddhant Aggarwal","group":"ECE-EVE","id":"63","createdAt":{"$date":"2019-03-31T20:02:05.892Z"},"updatedAt":{"$date":"2019-03-31T20:02:05.892Z"},"__v":0}
+{"_id":{"$oid":"5ca11cd43a637b0004a08836"},"name":"Shubham","group":"ECE-EVE","id":"64","createdAt":{"$date":"2019-03-31T20:02:28.997Z"},"updatedAt":{"$date":"2019-03-31T20:02:28.997Z"},"__v":0}
+{"_id":{"$oid":"5ca11ce43a637b0004a08837"},"name":"Taranjeet Singh","group":"ECE-EVE","id":"65","createdAt":{"$date":"2019-03-31T20:02:44.791Z"},"updatedAt":{"$date":"2019-03-31T20:02:44.791Z"},"__v":0}
+{"_id":{"$oid":"5ca11cf23a637b0004a08838"},"name":"Mohd. Aamir Saifi","group":"ECE-EVE","id":"66","createdAt":{"$date":"2019-03-31T20:02:58.510Z"},"updatedAt":{"$date":"2019-03-31T20:02:58.510Z"},"__v":0}
+{"_id":{"$oid":"5ca18b63d31ed6000482a76d"},"name":"Gaurav Kumar Singh","group":"AIILS","id":"69","createdAt":{"$date":"2019-04-01T03:54:11.242Z"},"updatedAt":{"$date":"2019-04-01T03:54:11.242Z"},"__v":0}
+{"_id":{"$oid":"5ca18e36d31ed6000482a771"},"name":"Ankur Rothan","group":"ARSD-Hindi","id":"70","createdAt":{"$date":"2019-04-01T04:06:14.658Z"},"updatedAt":{"$date":"2019-04-01T04:06:14.658Z"},"__v":0}
+{"_id":{"$oid":"5ca18e40d31ed6000482a772"},"name":"Saurav Kumar","group":"ARSD-Hindi","id":"71","createdAt":{"$date":"2019-04-01T04:06:24.944Z"},"updatedAt":{"$date":"2019-04-01T04:06:24.944Z"},"__v":0}
+{"_id":{"$oid":"5ca18e4cd31ed6000482a773"},"name":"Harshit Shukla","group":"ARSD-Hindi","id":"72","createdAt":{"$date":"2019-04-01T04:06:36.934Z"},"updatedAt":{"$date":"2019-04-01T04:06:36.934Z"},"__v":0}
+{"_id":{"$oid":"5ca18e5bd31ed6000482a774"},"name":"Chandan Shah","group":"ARSD-Hindi","id":"73","createdAt":{"$date":"2019-04-01T04:06:51.906Z"},"updatedAt":{"$date":"2019-04-01T04:06:51.906Z"},"__v":0}
+{"_id":{"$oid":"5ca18e65d31ed6000482a775"},"name":"Nitish","group":"ARSD-Hindi","id":"74","createdAt":{"$date":"2019-04-01T04:07:01.027Z"},"updatedAt":{"$date":"2019-04-01T04:07:01.027Z"},"__v":0}
+{"_id":{"$oid":"5ca18f5ad31ed6000482a776"},"name":"Rahul Kumar","group":"CSE-MSIT","id":"75","createdAt":{"$date":"2019-04-01T04:11:06.067Z"},"updatedAt":{"$date":"2019-04-01T04:11:06.067Z"},"__v":0}
+{"_id":{"$oid":"5ca18f77d31ed6000482a777"},"name":"Mrinal Puri","group":"CSE-MSIT","id":"76","createdAt":{"$date":"2019-04-01T04:11:35.970Z"},"updatedAt":{"$date":"2019-04-01T04:11:35.970Z"},"__v":0}
+{"_id":{"$oid":"5ca18f88d31ed6000482a778"},"name":"Pallav Garg","group":"CSE-MSIT","id":"77","createdAt":{"$date":"2019-04-01T04:11:52.112Z"},"updatedAt":{"$date":"2019-04-01T04:11:52.112Z"},"__v":0}
+{"_id":{"$oid":"5ca18f99d31ed6000482a779"},"name":"Sonakshi Mathur","group":"CSE-MSIT","id":"78","createdAt":{"$date":"2019-04-01T04:12:09.273Z"},"updatedAt":{"$date":"2019-04-01T04:12:09.273Z"},"__v":0}
+{"_id":{"$oid":"5ca18fa7d31ed6000482a77a"},"name":"Ayush Ravat","group":"CSE-MSIT","id":"79","createdAt":{"$date":"2019-04-01T04:12:23.978Z"},"updatedAt":{"$date":"2019-04-01T04:12:23.978Z"},"__v":0}
+{"_id":{"$oid":"5ca18fb6d31ed6000482a77b"},"name":"Abhay Gairola","group":"CSE-MSIT","id":"80","createdAt":{"$date":"2019-04-01T04:12:38.610Z"},"updatedAt":{"$date":"2019-04-01T04:12:38.610Z"},"__v":0}
+{"_id":{"$oid":"5ca18fd2d31ed6000482a77c"},"name":"Bhavya Chawala","group":"CSE-MSIT","id":"81","createdAt":{"$date":"2019-04-01T04:13:06.981Z"},"updatedAt":{"$date":"2019-04-01T04:13:06.981Z"},"__v":0}
+{"_id":{"$oid":"5ca18fe6d31ed6000482a77d"},"name":"Tarun Singh","group":"CSE-MSIT","id":"82","createdAt":{"$date":"2019-04-01T04:13:26.686Z"},"updatedAt":{"$date":"2019-04-01T04:13:26.686Z"},"__v":0}
+{"_id":{"$oid":"5ca1901ad31ed6000482a77e"},"name":"Akansha Tomer","group":"CSE-MSIT","id":"83","createdAt":{"$date":"2019-04-01T04:14:18.770Z"},"updatedAt":{"$date":"2019-04-01T04:14:18.770Z"},"__v":0}
+{"_id":{"$oid":"5ca1902ed31ed6000482a77f"},"name":"Vaibhav Kataria","group":"CSE-MSIT","id":"84","createdAt":{"$date":"2019-04-01T04:14:38.439Z"},"updatedAt":{"$date":"2019-04-01T04:14:38.439Z"},"__v":0}
+{"_id":{"$oid":"5ca1904bd31ed6000482a780"},"name":"Akshansh Pandey","group":"CSE-MSIT","id":"85","createdAt":{"$date":"2019-04-01T04:15:07.226Z"},"updatedAt":{"$date":"2019-04-01T04:15:07.226Z"},"__v":0}
+{"_id":{"$oid":"5ca19075d31ed6000482a781"},"name":"Tushar Chopra","group":"IT-MSIT","id":"86","createdAt":{"$date":"2019-04-01T04:15:49.042Z"},"updatedAt":{"$date":"2019-04-01T04:15:49.042Z"},"__v":0}
+{"_id":{"$oid":"5ca19081d31ed6000482a782"},"name":"Jasneet Singh Bhatia","group":"IT-MSIT","id":"87","createdAt":{"$date":"2019-04-01T04:16:01.635Z"},"updatedAt":{"$date":"2019-04-01T04:16:01.635Z"},"__v":0}
+{"_id":{"$oid":"5ca194e9649a74000431e307"},"name":"UMANG JAIN","group":"ECE-EVE","id":"88","createdAt":{"$date":"2019-04-01T04:34:49.059Z"},"updatedAt":{"$date":"2019-04-01T04:34:49.059Z"},"__v":0}
+{"_id":{"$oid":"5ca19687879a030004bba628"},"name":"SHIVAM ROHILLA","group":"ECE-EVE","id":"89","createdAt":{"$date":"2019-04-01T04:41:43.567Z"},"updatedAt":{"$date":"2019-04-01T04:41:43.567Z"},"__v":0}
+{"_id":{"$oid":"5ca19922879a030004bba629"},"name":"Vidisha Singh","group":"WCMSRH","id":"90","createdAt":{"$date":"2019-04-01T04:52:50.509Z"},"updatedAt":{"$date":"2019-04-01T04:52:50.509Z"},"__v":0}
+{"_id":{"$oid":"5ca19984d60d070004b4e127"},"name":"Himanshu Gautam","group":"CSE-EVE","id":"91","createdAt":{"$date":"2019-04-01T04:54:28.878Z"},"updatedAt":{"$date":"2019-04-01T04:54:28.878Z"},"__v":0}
+{"_id":{"$oid":"5ca19de3d4361000045aa087"},"name":"Mandeep","group":"CSE-NIEC","id":"93","createdAt":{"$date":"2019-04-01T05:13:07.171Z"},"updatedAt":{"$date":"2019-04-01T05:13:07.171Z"},"__v":0}
+{"_id":{"$oid":"5ca1bd74d4361000045aa096"},"name":"Deeksha Tumarish","group":"ARSD-Hindi","id":"94","createdAt":{"$date":"2019-04-01T07:27:48.683Z"},"updatedAt":{"$date":"2019-04-01T07:27:48.683Z"},"__v":0}
+{"_id":{"$oid":"5ca1bec9d4361000045aa097"},"name":"Sougata Das","group":"Engineers","id":"95","createdAt":{"$date":"2019-04-01T07:33:29.406Z"},"updatedAt":{"$date":"2019-04-01T07:33:29.406Z"},"__v":0}
+{"_id":{"$oid":"5ca1bed9d4361000045aa098"},"name":"SougataDas","group":"Engineers","id":"96","createdAt":{"$date":"2019-04-01T07:33:45.398Z"},"updatedAt":{"$date":"2019-04-01T07:33:45.398Z"},"__v":0}
+{"_id":{"$oid":"5ca20685f806ee00048d78ca"},"name":"Madona","group":"Bams","id":"97","createdAt":{"$date":"2019-04-01T12:39:33.981Z"},"updatedAt":{"$date":"2019-04-01T12:39:33.981Z"},"__v":0}
+{"_id":{"$oid":"5ca22bfef806ee00048d78e6"},"name":"Daksh Varshneya","group":"IT Evening","id":"98","createdAt":{"$date":"2019-04-01T15:19:26.434Z"},"updatedAt":{"$date":"2019-04-01T15:19:26.434Z"},"__v":0}
+{"_id":{"$oid":"5ca5c8359ef42e0004c429ff"},"name":"__Admin","group":"Admin","id":"99","createdAt":{"$date":"2019-04-04T09:02:45.251Z"},"updatedAt":{"$date":"2019-04-04T09:02:45.251Z"},"__v":0}
+{"_id":{"$oid":"5ca755cef319020004a04479"},"name":"Dhruva kumar","group":"Dk","id":"100","createdAt":{"$date":"2019-04-05T13:19:10.823Z"},"updatedAt":{"$date":"2019-04-05T13:19:10.823Z"},"__v":0}
